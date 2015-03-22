@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "home_budget",
+    "packageName": "pl.pabllo.homebudget",
+    "packageFolder": "pl/pabllo/homebudget",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "4d20987450c5c2ff331e540e5f513b11b3670ff7"
+  }
+}
